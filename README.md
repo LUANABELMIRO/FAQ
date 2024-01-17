@@ -6,4 +6,4 @@ Projeto de desenvolvimento frontend baseado em um desafio do Frontend Mentor. Es
 
 Este projeto consiste em um componente de accordion (perguntas frequentes) responsivo e estilizado. Foi desenvolvido utilizando HTML para estrutura, CSS para estilização e JavaScript para a interatividade.
 
-- [Preview](#preview)
+<a href="https://luanabelmiro.github.io/FAQ/" target="_blank">Visitar</a> 
